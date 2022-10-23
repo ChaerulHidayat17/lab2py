@@ -21,3 +21,5 @@
 10.server repository yang kita buat menggunakan github.com <br>
 11.anda harus membuat akun github dulu <br>
 ![gambar6](foto/ss11.png) <br>
+12.setelah anda berhasil membuat akun github anda pada halamam beranda klik start a project lalu buat new repository
+![gambar7](foto/1.png)<br> ![gambar7](foto/2.png)
