@@ -32,3 +32,6 @@ catatan link url nya adalah link repository github yang tadi kita buat <br>
 ![gambar10](foto/4.png) <br>
 15.mengirim perubahan ke server dengan cara $git push -u orign master <br>
 ![gambar11](foto/16.png) <br>
+16.buka akun github anda dan lihat pada repository nya maka perubahan akan terlihat di situh <br>
+![gambar12](foto/18.png) <br>
+<br> <br> <br>18
