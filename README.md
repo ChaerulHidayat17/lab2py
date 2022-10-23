@@ -46,7 +46,9 @@ catatan link url nya adalah link repository github yang tadi kita buat <br>
    <br><br>
 3. sekarang kita mengetahui hasil penjumlahan yang di input user
    ![gamabar7](foto/7.png)
-   <br><br><br>
+   <br><br>
+4. Dan inilah hasil console nya
+   ![gambar8](foto/8.png)
 
    <i>ini adalah tutorial singkat git vcs dan program sederhana python </i>
    <br><br>
