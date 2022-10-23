@@ -30,3 +30,5 @@
 ![gambar9](foto/15.png) <br>
 catatan link url nya adalah link repository github yang tadi kita buat <br>
 ![gambar10](foto/4.png) <br>
+15.mengirim perubahan ke server dengan cara $git push -u orign master <br>
+![gambar11](foto/16.png) <br>
