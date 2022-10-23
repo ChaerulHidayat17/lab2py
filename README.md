@@ -25,3 +25,6 @@
 ![gambar7](foto/1.png)<br> ![gambar7](foto/2.png)
 13.membuat repository server <br>
 ![gambar8](foto/3.png) <br>
+14.menambhakan remote repository dengan cara git remote add orign url <br>
+(biasa nya ada perintah untuk masukin akun github kita untuk konekin ke server) <br>
+![gambar9](foto/15.png) <br>
