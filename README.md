@@ -40,3 +40,7 @@ catatan link url nya adalah link repository github yang tadi kita buat <br>
 
 1. kita deklarasi variable sesuai inputan user
    ![gambar5](foto/5.png)
+   <br> <br>
+2. sekarang kita menjumlahkan bilangan yang di input user
+   ![gambar6](foto/6.png)
+   <br><br>
