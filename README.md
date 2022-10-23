@@ -28,3 +28,5 @@
 14.menambhakan remote repository dengan cara git remote add orign url <br>
 (biasa nya ada perintah untuk masukin akun github kita untuk konekin ke server) <br>
 ![gambar9](foto/15.png) <br>
+catatan link url nya adalah link repository github yang tadi kita buat <br>
+![gambar10](foto/4.png) <br>
