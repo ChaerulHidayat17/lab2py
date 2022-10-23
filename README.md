@@ -34,4 +34,9 @@ catatan link url nya adalah link repository github yang tadi kita buat <br>
 ![gambar11](foto/16.png) <br>
 16.buka akun github anda dan lihat pada repository nya maka perubahan akan terlihat di situh <br>
 ![gambar12](foto/18.png) <br>
-<br> <br> <br>18
+<br> <br> <br>
+
+# Dan sekarang kita membuat program sederhana dengan python
+
+1. kita deklarasi variable sesuai inputan user
+   ![gambar5](foto/5.png)
