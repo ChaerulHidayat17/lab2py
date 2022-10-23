@@ -44,3 +44,10 @@ catatan link url nya adalah link repository github yang tadi kita buat <br>
 2. sekarang kita menjumlahkan bilangan yang di input user
    ![gambar6](foto/6.png)
    <br><br>
+3. sekarang kita mengetahui hasil penjumlahan yang di input user
+   ![gamabar7](foto/7.png)
+   <br><br><br>
+
+   <i>ini adalah tutorial singkat git vcs dan program sederhana python </i>
+   <br><br>
+   <i>Terima Kasih</i>
