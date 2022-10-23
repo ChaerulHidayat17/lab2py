@@ -23,3 +23,5 @@
 ![gambar6](foto/ss11.png) <br>
 12.setelah anda berhasil membuat akun github anda pada halamam beranda klik start a project lalu buat new repository
 ![gambar7](foto/1.png)<br> ![gambar7](foto/2.png)
+13.membuat repository server <br>
+![gambar8](foto/3.png) <br>
