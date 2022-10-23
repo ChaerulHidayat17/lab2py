@@ -14,3 +14,6 @@
 ![gambar3](foto/12.png) <br>
 6.menambhkan file baru repository dengan cara $git add README.md <br>
 ![gambar4](foto/11.png) <br>
+7.selamat kita berhasil menambahkan file baru repository <br>
+8.sekarang kita commit atau yang biasa kita kenal menyimpan perubahan ke database dengan cara $git commit -m "file pertama kita" <br>
+![gambar5](foto/13.png) <br>
