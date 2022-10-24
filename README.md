@@ -38,16 +38,19 @@ catatan link url nya adalah link repository github yang tadi kita buat <br>
 
 # Dan sekarang kita membuat program sederhana dengan python
 
-1. kita deklarasi variable sesuai inputan user
+1. kita membuat file python dengan cara pake kode editor , di sini saya pakai Visual studio
+   kita bikin file bebas nama nya asal belakang nya .py "contoh lab2.py "
+   ![gambar9](foto/19.png) <br> <br>
+2. kita deklarasi variable sesuai inputan user
    ![gambar5](foto/5.png)
    <br> <br>
-2. sekarang kita menjumlahkan bilangan yang di input user
+3. sekarang kita menjumlahkan bilangan yang di input user
    ![gambar6](foto/6.png)
    <br><br>
-3. sekarang kita mengetahui hasil penjumlahan yang di input user
+4. sekarang kita mengetahui hasil penjumlahan yang di input user
    ![gamabar7](foto/7.png)
    <br><br>
-4. Dan inilah hasil console nya
+5. Dan inilah hasil console nya
    ![gambar8](foto/8.png)
 
    <i>ini adalah tutorial singkat git vcs dan program sederhana python </i>
